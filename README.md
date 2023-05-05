@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+si j'ai commencé à coder des jeux c'est parce que je pouvais pas faire tourner des jeux sur mon pc
+
+
 🔭 I’m currently in second year of engineer studies<br>🤝 I’m looking for help with<br>🌱 I’m currently learning computer sciences<br>
 
 
